@@ -1,6 +1,7 @@
 
-### Hi there I'm [Akhil!](https://akhilgkrishnan.me)👋
-I'm Akhil G Krishnan, a 22-year old technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.<br>
+### Hi there I'm Ilya👋
+I'm Ilya Novak. During the day, I work as a Systems Analyst/QA Profession at th [Neurological Clinical Research Institute](https://www.massgeneral.org/ncri). At night, I study data science at [Lambda School](https://lambdaschool.com/).<br>
+
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
 <!--
