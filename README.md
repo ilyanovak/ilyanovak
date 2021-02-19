@@ -7,7 +7,7 @@ I'm Ilya Novak. During the day, I work as a Systems Analyst/QA Profession at th 
 <!--
 **ilyanovak/ilyanovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+<!-- 
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
 
 ⭐️ From [AkhilGKrishnan](https://github.com/AkhilGKrishnan)
+-->
