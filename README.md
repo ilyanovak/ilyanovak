@@ -3,9 +3,9 @@
 I'm Ilya Novak. During the day, I work as a Systems Analyst/QA Profession at th [Neurological Clinical Research Institute](https://www.massgeneral.org/ncri). At night, I study data science at [Lambda School](https://lambdaschool.com/).<br>
 
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ilyanovak/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ilyanovak) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/novakilya) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/ilya.novak.73)
 <!--
-**AkhilGKrishnan/AkhilGKrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ilyanovak/ilyanovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
